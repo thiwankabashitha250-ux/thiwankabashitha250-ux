@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thivanka Bashitha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiwankabashitha250-ux&label=Profile%20views&color=0e75b6&style=flat" alt="thiwankabashitha250-ux" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thiwankabashitha250-ux&label=Profile%20views&color=0e75b6&style=flat" alt="thiwankabashitha250-ux" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiwankabashitha250-ux" alt="thiwankabashitha250-ux" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiwankabashitha250-ux" alt="thiwankabashitha250-ux" /></a> </p>
+
+### About me
+
+---
 
 - 🔭 I’m currently working on **undergraduate in sliit**
 
